@@ -1,4 +1,8 @@
-doc/images/
+# Cache objects
+packer_cache/
+output-virtualbox-iso/
 
-# Documentation:
-docs/**/images/
+# For built boxes
+*.box
+*.iso
+
