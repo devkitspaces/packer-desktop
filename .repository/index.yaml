@@ -1,0 +1,18 @@
+slug: packer-desktop
+description: This build configuration installs the vagrant-desktop environments onto minimal ubuntu images that can be used with Virtualbox.
+project: devkitspaces
+namespace:
+status: archived
+icon: icon.svg
+license:
+  type: MIT
+  content: Jonathan Beverly <jrbeverly>
+  year: 2017
+topics: |-
+  [
+    "packer",
+    "infrastructure-as-code",
+    "template",
+    "desktop-environment",
+    "simple"
+  ]
